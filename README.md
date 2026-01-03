@@ -45,7 +45,8 @@ agentic-content-generation-system/
 - ├── requirements.txt
 - └── README.md
 
-> Detailed syste architecture is given in productdocumentation.md
+> Detailed system architecture is given in productdocumentation.md.
+
 > The project runs in **mock LLM mode by default**, so no API keys or paid services are required.
 
 ---
