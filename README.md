@@ -1,1 +1,0 @@
-# kasparro-agentic-Chhandak-Mukherjee
