@@ -2,7 +2,7 @@
 
 This project is designed as a **true multi-agent system** following an **agentic architecture**, rather than a static or sequential workflow.
 
-The system consists of multiple **independent, autonomous agents** that collaborate to generate structured product content. Agents do not call one another directly. Instead, they interact indirectly through a **shared memory (blackboard)** and are coordinated by an **orchestrator** that enables dynamic execution.
+The system consists of multiple **independent, autonomous agents** that collaborate to generate structured product content. Agents do not call one another directly. Instead, they interact indirectly through a **shared memory ** and are coordinated by an **orchestrator** that enables dynamic execution.
 
 The core design goals are:
 
@@ -33,7 +33,7 @@ Each agent is a self-contained unit with a **single, clearly defined responsibil
 
 ---
 
-### 2.2 Shared Memory (Blackboard Pattern)
+### 2.2 Shared Memory
 
 A shared memory component acts as the **central coordination medium** for the system.
 
@@ -60,7 +60,7 @@ As a result, overall system behavior emerges from **agent decisions** rather tha
 
 ---
 
-### 2.4 Content Generation Pipeline (Emergent)
+### 2.4 Content Generation Pipeline
 
 Although the system produces outputs in a logical sequence, this sequence is **not hard-coded**. Instead, the effective pipeline emerges dynamically:
 
