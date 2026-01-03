@@ -58,3 +58,24 @@ agentic-content-generation-system/
 - ├── requirements.txt
 - └── README.md
 
+
+> The project runs in **mock LLM mode by default**, so no API keys or paid services are required.
+
+---
+
+## 🖥 System Requirements
+
+- Python 3.9 or later  
+- Windows / macOS / Linux  
+- Minimal memory requirements  
+- Internet connection not required (mock mode)
+
+Optional:
+- OpenAI / Gemini API access (for real LLM mode)
+
+---
+
+## ▶️ How to Run
+
+```bash
+python main.py
