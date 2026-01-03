@@ -6,19 +6,6 @@ Independent agents collaborate via shared memory and are dynamically coordinated
 
 ---
 
-##  Key Features
-
-- True multi-agent system (not a static pipeline)
-- Autonomous agents with clearly separated responsibilities
-- Dynamic orchestration without hard-coded execution order
-- Shared memory (blackboard pattern) for indirect agent communication
-- Reusable content logic blocks
-- Template-based page generation
-- Mock LLM mode for deterministic, quota-free execution
-- Clean JSON outputs suitable for downstream systems
-
----
-
 ##  System Workflow 
 
 1. Product data is parsed into an internal representation  
@@ -58,7 +45,7 @@ agentic-content-generation-system/
 - ├── requirements.txt
 - └── README.md
 
-
+> Detailed syste architecture is given in productdocumentation.md
 > The project runs in **mock LLM mode by default**, so no API keys or paid services are required.
 
 ---
