@@ -1,0 +1,17 @@
+{
+  "product_a": {
+    "name": "GlowBoost Vitamin C Serum",
+    "price": "₹699"
+  },
+  "product_b": {
+    "name": "RadianceX Serum",
+    "ingredients": [
+      "Vitamin C"
+    ],
+    "benefits": [
+      "Glow enhancement"
+    ],
+    "price": "₹799"
+  },
+  "comparison": "GlowBoost is more affordable and includes Hyaluronic Acid for hydration."
+}
